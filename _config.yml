@@ -98,4 +98,6 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: ''
+  type: git
+  repo: https://jamediii.github.io/
+  branch: gh-pages
