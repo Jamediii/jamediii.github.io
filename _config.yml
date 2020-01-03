@@ -100,4 +100,4 @@ theme: next
 deploy:
   type: git
   repo: https://jamediii.github.io/
-  branch: gh-pages
+  branch: master
